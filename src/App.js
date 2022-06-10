@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-import list from "./assets/list";
+import list from "./assets/list.js";
 
 function App() {
   const [word, setWord] = useState("");
