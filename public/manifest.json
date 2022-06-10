@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Wordle Solution",
+  "name": "Wordle Solution Manager",
   "icons": [
     {
       "src": "favicon.ico",
